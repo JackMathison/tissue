@@ -15,7 +15,7 @@ The task at hand is to model and build a relational database for the general wor
 
 In this football team database, the entities represent the various aspects and participants involved in managing a football organization. Each entity is equipped with attributes that provide details essential to the organization's operation, such as personal information, roles, and activities within the team structure.
 
-The team entity holds central information about each football team, including its unique identifier, name, average age of players, mascot, and the captain's name. It is directly related to several other entities that provide a comprehensive view of the team's functioning. For instance, each team is associated with multiple staff members; this one-to-many relationship indicates that a team has various staff members fulfilling different roles, identified by their names, contact information, and specific positions within the team.
+The team entity holds central information about each football team, including its unique identifier, name, average age of players, mascot, and the captain's name. It is directly related to several other entities that provide a comprehensive view of the team's functioning. For instance, each team is associated with multiple staff members; this one-to-many relationship indicates that a team has various staff members fulfilling different roles, identified by their names, contact information, and specific position within the team.
 
 Coaches are crucial to a team's performance and are tracked in the database by their full name, experience, specialty, and contact info. Each coach is linked to one football team, following the one-to-many relationship paradigm, suggesting that while a coach is dedicated to a single team, the team could have multiple coaches, one or many for different aspects of the game such as offense, defense, and special teams.
 
@@ -35,9 +35,7 @@ Lastly, events are any significant occurrences, like games or tournaments, assoc
 
 Overall, this football team database is designed to comprehensively represent and manage the complex interactions, activities, and components that make up a professional football team's ecosystem. From the individuals who play, coach, and manage, to the logistical elements of equipment and facilities, the database's entities and their interrelationships provide a structured insight into the team's operations.
 
-
 ![280933374-689f3f19-eb51-4e6c-9147-0c7bc3c6946d](https://github.com/JackMathison/tissue/assets/148248948/fc1fb6d6-86b9-4368-accd-3b3ce0362f1b)
-
 ![280935441-1eb363f5-3d52-4f7c-9ee3-f41c403d2428](https://github.com/JackMathison/tissue/assets/148248948/14c6ed8b-8537-4bed-9061-4958c8669d68)
 ![280935527-a1e044e3-de85-4c12-8b80-e358c739294f](https://github.com/JackMathison/tissue/assets/148248948/39f6eedf-dc93-4aaa-aeae-e81886655dd8)
 ![280935564-60528420-6ece-4f74-92fd-df8e78855b93](https://github.com/JackMathison/tissue/assets/148248948/c191ec9c-5804-4062-b319-c284d4f1ae15)
