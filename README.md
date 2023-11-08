@@ -36,6 +36,9 @@ Lastly, events are any significant occurrences, like games or tournaments, assoc
 Overall, this football team database is designed to comprehensively represent and manage the complex interactions, activities, and components that make up a professional football team's ecosystem. From the individuals who play, coach, and manage, to the logistical elements of equipment and facilities, the database's entities and their interrelationships provide a structured insight into the team's operations.
 
 ![280933374-689f3f19-eb51-4e6c-9147-0c7bc3c6946d](https://github.com/JackMathison/tissue/assets/148248948/fc1fb6d6-86b9-4368-accd-3b3ce0362f1b)
+
+# Data Dictionary
+
 ![280935441-1eb363f5-3d52-4f7c-9ee3-f41c403d2428](https://github.com/JackMathison/tissue/assets/148248948/14c6ed8b-8537-4bed-9061-4958c8669d68)
 ![280935527-a1e044e3-de85-4c12-8b80-e358c739294f](https://github.com/JackMathison/tissue/assets/148248948/39f6eedf-dc93-4aaa-aeae-e81886655dd8)
 ![280935564-60528420-6ece-4f74-92fd-df8e78855b93](https://github.com/JackMathison/tissue/assets/148248948/c191ec9c-5804-4062-b319-c284d4f1ae15)
@@ -49,3 +52,7 @@ Overall, this football team database is designed to comprehensively represent an
 ![280936026-b4964f17-dad2-48a4-a9b7-e6046d6494f6](https://github.com/JackMathison/tissue/assets/148248948/0344f131-2f36-492c-bc8b-68ea13fa0d9b)
 ![280936110-6587a198-e53e-420b-9d81-e57d4b9e70ff](https://github.com/JackMathison/tissue/assets/148248948/8e009fed-f047-46b3-aeca-aa33473215e7)
 ![280936139-4b776c94-09cd-4acf-83ec-82a34adbb244](https://github.com/JackMathison/tissue/assets/148248948/f7a72114-dedb-43eb-b934-3c911d33e29a)
+
+# Queries
+
+# Database Information
