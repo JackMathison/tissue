@@ -4,11 +4,11 @@
 MIST 4610 9:35-10:50 Group 9 
 
 # Team Members
-1. John Hulsey | 
-2. Jack Mathison | @JackMathison
-3. Carson Whitt | @whittcarson
-4. Justin Sullivan |
-5. Hayes Herzog | @purpwlhaze
+1. Jack Mathison | @JackMathison
+2. John Hulsey | https://github.com/J-Hulsey/MIST_Project
+3. Carson Whitt | https://github.com/whittcarson/MIST4610GroupProject1
+4. Justin Sullivan | https://github.com/Justn7ime/effective-parakeet
+5. Hayes Herzog | https://github.com/purwplhaze/mist4610_project1
 
 # Problem Description
 The task at hand is to model and build a relational database for the general workings of a football team. The central entity in the model is the 'team' entity. The team operates in conjunction with players, staff, coaches in order to track equipment, injuries, events, donations, and rental of facilities. We are interested in modeling these relationships and populating the entities and their attributes with sample data. We are also interested in performing functioning queries on the data so that we can generate reports and build insight about operations within the footaball team.
